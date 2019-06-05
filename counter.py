@@ -100,7 +100,7 @@ v_total.set('รวมคะแนนทั้งหมด: '+'0')
 LTotal = ttk.Label(GUI,textvariable=v_total,font=('Angsana New',30),foreground='blue')
 LTotal.place(x=100,y=200)
 
-SetLabel = ttk.Label(GUI,text='เซ็ตคะแนนให้ธนาธรกดปุ่ม F2 เซ็ตคะแนนให้ธนาธรกดปุ่ม F3',font=('Angsana New',20))
+SetLabel = ttk.Label(GUI,text='เซ็ตคะแนนให้ลุงตู่กดปุ่ม F2 เซ็ตคะแนนให้ธนาธรกดปุ่ม F3',font=('Angsana New',20))
 SetLabel.place(x=100,y=15)
 
 
